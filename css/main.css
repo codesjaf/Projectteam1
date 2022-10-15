@@ -17,19 +17,18 @@ body {
 
 /* Убираем внешние отступы */
 body,
-h1,
-h2,
-h3,
-h4,
-p,
+.sch,
+.sc,
+.sch3,
+p.sc,
 ul[class],
 ol[class],
-li,
-figure,
+/*figure,
 figcaption,
 blockquote,
 dl,
-dd {
+dd*/
+li{
   margin: 0;
 }
 
